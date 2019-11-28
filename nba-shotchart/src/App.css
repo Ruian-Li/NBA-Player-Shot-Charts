@@ -1,8 +1,19 @@
+svg {
+  font-size: 1em;
+}
+
 #shot-chart {
+  font-size: 0.1em;
   stroke-width: 0.1;
   fill: none;
   stroke: black;
-  font-size: 0.1em;
   margin: auto;
 }
 
+#team-shot-chart {
+  font-size: 0.1em;
+  stroke-width: 0.1;
+  fill: none;
+  stroke: black;
+  margin: auto;
+}
